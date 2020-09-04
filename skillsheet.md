@@ -40,8 +40,12 @@
 ### Backend
 
     Docker/Docker-Compose/fluentd/nginx/
+    
+### k8s
+    Kuberntes/GKE/kubeadm/kind/stern/
+    kubectx
 
-## Test Tool
+### Test Tool
 
     selenium/ApacheBench/locust
 
@@ -68,4 +72,4 @@
 ### Developement Tool
 
     GitLab/github/SVN/Readmine/slack/
-    trello/Notion/Prettier
+    trello/Notion/Prettier/Backlog
