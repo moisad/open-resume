@@ -35,7 +35,7 @@
 ### Web
 
     Flask/Vue.js/Axios/jQuery/struts2/aiohttp/
-    Laravel/Axios/d3.js
+    Laravel/d3.js
 
 ### Backend
 
