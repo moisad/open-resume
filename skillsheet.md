@@ -39,7 +39,7 @@
 
 ### Backend
 
-    Docker/Docker-Compose/fluentd/nginx/
+    Docker/Docker-Compose/fluentd/nginx/cron/Systemd
     
 ### k8s
     Kuberntes/GKE/kubeadm/kind/stern/
@@ -51,7 +51,7 @@
 
 ### IaC
 
-    Ansible/CloudFormation
+    Ansible/CloudFormation/Terraform
 
 ### DB
 
