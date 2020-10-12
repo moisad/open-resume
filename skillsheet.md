@@ -42,12 +42,11 @@
     Docker/Docker-Compose/fluentd/nginx/cron/Systemd
     
 ### k8s
-    Kuberntes/GKE/kubeadm/kind/stern/
-    kubectx
+    Kuberntes/GKE/EKS/kubeadm/kind/stern/
 
 ### Test Tool
 
-    selenium/ApacheBench/locust
+    Puppetier/selenium/ApacheBench/locust
 
 ### IaC
 
@@ -60,6 +59,9 @@
 ### MachineLearning
 
     Pytorch/sklearn/pandas/optuna/matplotlib/PuLP
+    
+### MLOps
+    MLflow
 
 ### Cloud
 
