@@ -46,7 +46,7 @@
 
 ### Test Tool
 
-    Puppetier/selenium/ApacheBench/locust
+    Puppeteer/selenium/ApacheBench/locust
 
 ### IaC
 
