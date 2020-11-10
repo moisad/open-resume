@@ -70,7 +70,7 @@
 
 ### Cloud
 
-    AWS/GCP(GCE, GCE, Firewall, IAMのみ)
+    AWS/GCP(GCE, GKE, Firewall, IAMのみ)
 
 ### BI
 
