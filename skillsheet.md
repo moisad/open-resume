@@ -63,7 +63,7 @@
 
 ### MachineLearning
 
-    Pytorch/sklearn/pandas/optuna/matplotlib/PuLP
+    Pytorch/Tensorflow/sklearn/pandas/optuna/matplotlib/PuLP
     
 ### MLOps
     MLflow/Kubeflow
