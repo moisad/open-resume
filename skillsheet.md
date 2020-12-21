@@ -47,7 +47,7 @@
     Docker/Docker-Compose/fluentd/nginx/cron/Systemd
     
 ### k8s
-    Kuberntes/GKE/EKS/kubeadm/kind/stern/
+    Kuberntes/GKE/EKS/kubeadm/Istio/KubeEdge/k3s/stern/
 
 ### Test Tool
 
