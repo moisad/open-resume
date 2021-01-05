@@ -39,7 +39,7 @@
 
 ### Web
 
-    Flask/Vue.js/Axios/jQuery/struts2/aiohttp/
+    Flask/Vue.js/Nuxt.js/Axios/node-fetch/jQuery/struts2/aiohttp/
     Laravel/d3.js
 
 ### Backend
@@ -47,11 +47,11 @@
     Docker/Docker-Compose/fluentd/nginx/cron/Systemd
     
 ### k8s
-    Kuberntes/GKE/EKS/kubeadm/Istio/KubeEdge/k3s/stern/
+    Kuberntes/GKE/EKS/kubeadm/Helm/Istio/KubeEdge/k3s/stern/
 
 ### Test Tool
 
-    Puppeteer/selenium/ApacheBench/locust
+    Puppeteer/Selenium/ApacheBench/locust
 
 ### IaC
 
@@ -70,7 +70,7 @@
 
 ### Cloud
 
-    AWS/GCP(GCE, GKE, Firewall, IAMのみ)
+    AWS/GCP(GCE, GKE, Firewall, IAMのみ)/Firebase
 
 ### BI
 
