@@ -82,6 +82,10 @@
     GitLab/github/SVN/Readmine/slack/
     trello/Notion/Prettier/Backlog
     
+### CICD
+    
+    GithubActions/GitLab Runner
+
 ## 主な経歴
 ＊フリーランス・正規雇用・学生インターン問わず入れております。
 
