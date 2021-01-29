@@ -8,8 +8,10 @@
 ## できること
 
 - インフラ開発とデプロイ・運用自動化
+- Develop a Crawler and Scraper
 - 自然言語処理([出版論文](https://ieeexplore.ieee.org/document/8668999))
-- データ分析と基盤開発（Kaggleコンペ入賞経験あり）
+- データ分析(Kaggleコンペ入賞経験あり）
+- 分析基盤開発
 - バックエンド
 - フロントエンド（少し）
 
@@ -40,8 +42,8 @@
 
 ### Web
 
-    Flask/Vue.js/Nuxt.js/Axios/node-fetch/jQuery/struts2/aiohttp/
-    Laravel/d3.js
+    Flask/Vue.js/Vuetify/Nuxt.js/Axios/node-fetch/jQuery/struts2/aiohttp/
+    Laravel/bootstrap/d3.js
 
 ### Backend
 
@@ -71,7 +73,7 @@
 
 ### Cloud
 
-    AWS/GCP(GCE, GKE, Firewall, IAMのみ)/Firebase
+    AWS/GCP(GCE, GKE, Firewall, IAM, GCS)/Firebase
 
 ### BI
 
@@ -79,7 +81,7 @@
 
 ### Developement Tool
 
-    GitLab/github/SVN/Readmine/slack/
+    GitLab/Github/SVN/Readmine/Slack/
     trello/Notion/Prettier/Backlog
     
 ### CICD
